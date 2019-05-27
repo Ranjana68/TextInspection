@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">A3</string>
+    <string name="s3">INSPECT</string>
+    <string name="s2">Enter String</string>
+    <string name="s1">TEXT INSPECTION</string>
+    <string name="capital_letters">Capital letters</string>
+    <string name="small_letters">Small letters</string>
+    <string name="digits">Digits</string>
+    <string name="special_character">Special character</string>
+    <string name="_0">0</string>
+</resources>
